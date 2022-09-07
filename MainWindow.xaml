@@ -12,7 +12,7 @@
 
             <Button Margin="5" Click="Slumpa">Slumpa</Button>
 
-            <TextBox Margin="5" Name="slumpTal" IsReadOnly="True"></TextBox>
+            <TextBox Margin="5" Height="50" Name="slumpTal" IsReadOnly="True"></TextBox>
             
         </StackPanel>
 </Window>
